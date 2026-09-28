@@ -9,6 +9,13 @@
   "sync": [
     {
       "$platform_data": "",
+      "name": "distanthorizons",
+      "type": "mod",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfi11b05/DistantHorizons-3.3.2-26.3-fabric-neoforge.jar",
+      "version": "gfi11b05"
+    },
+    {
+      "$platform_data": "",
       "name": "modmenu",
       "type": "mod",
       "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
